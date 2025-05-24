@@ -2,7 +2,7 @@
 
 ## About Me
 
-👀 Interested in full-stack, UX/UI and any impactful and user-friendly apps.
+👀 Interested in full-stack, UX/UI and any impactful and user-friendly apps
 <br>🌱 Exploring all things tech – learning never stops!
 <br>💞️ Innovative solutions and challenging my skills
 <br>📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jennahuttunen) 
